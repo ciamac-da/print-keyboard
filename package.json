@@ -1,0 +1,26 @@
+{
+  "name": "print-keyboard",
+  "version": "1.0.0",
+  "description": "Schreib ein Programm, das die Datei `keyboard.txt` in diesem Projekt liest und im Terminal ausgibt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciamac-da/print-keyboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciamac-da/print-keyboard/issues"
+  },
+  "homepage": "https://github.com/ciamac-da/print-keyboard#readme",
+  "dependencies": {
+    "ascii": "^1.0.0",
+    "ascii-art": "^2.5.0",
+    "ascii-table": "0.0.9",
+    "asciify-image": "^0.1.5",
+    "express": "^4.17.1"
+  }
+}
